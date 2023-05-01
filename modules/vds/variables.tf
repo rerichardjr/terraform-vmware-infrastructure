@@ -9,7 +9,7 @@ variable "vsphere_distributed_virtual_switch" {
 }
 
 variable "port_group_info" {
-  description = "The vSphere distributed switch names and associated vlans"
+  description = "The vSphere distributed switch port group names and associated vlans"
   type        = map
 }
 
