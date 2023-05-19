@@ -2,4 +2,4 @@
 Terraform modules for building VMware lab environments
 ---
 
-Work in progess
+Work in progress
